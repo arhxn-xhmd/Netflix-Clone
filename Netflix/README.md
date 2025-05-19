@@ -3,8 +3,8 @@
 A responsive front-end clone of the Netflix India landing page built using **HTML5** and **CSS3**.
 
 ## Preview 🖥️
-> This project replicates the design and structure of Netflix India's homepage.  
-> Responsive layout, styled components, and embedded media make it visually engaging.
+• This project replicates the design and structure of Netflix India's homepage.  
+• Responsive layout, styled components, and embedded media make it visually engaging.
 
 ## Features ✨
 - Modern and clean UI similar to Netflix
